@@ -2,14 +2,14 @@
 
 <div align="center">
   <img src="pictures/model.png" alt="Swin-CFNet" />
-  <p></p>
+  <p>Figure 1. Swin-CFNet</p>
 </div>
 
 <div align="center">
   <img src="pictures/RSF.png" alt="RSF Module" />
-  <p>Residual-Swin-Fusion Module</p>
+  <p>Figure 2. Residual-Swin-Fusion Module</p>
 </div>
 <div align="center">
   <img src="pictures/MFF.png" alt="MFF Module" />
-  <p>Multi-Source-Feature-Fusion Module</p>
+  <p>Figure 3. Multi-Source-Feature-Fusion Module</p>
 </div>
